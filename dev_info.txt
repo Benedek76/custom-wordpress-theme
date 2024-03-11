@@ -1,0 +1,72 @@
+Premade pages and posts:
+- Min. 2 post category, with 5-5 posts.
+- Uploaded featured images, excerpt, title and content.
+
+Base hooks of the basic WordPress Theme:
+https://developer.wordpress.org/reference/hooks/
+
+- wp_head()
+- body_class()
+- wp_footer()
+
+Base functions of the basic WordPress Theme:
+https://developer.wordpress.org/reference/functions/
+- get_header()
+- get_footer()
+- have_posts()
+- the_post()
+- get_template_part()
+- the_ID()
+- the_title()
+- esc_url()
+- has_post_thumbnail()
+- the_post_thumbnail()
+- the_excerpt()
+- comments_open()
+- get_comments_number()
+- comments_template()
+- is_single()
+- the_content()
+- wp_link_pages()
+- get_edit_post_link()
+- sprintf()
+- edit_post_link()
+- wp_kses()
+- get_the_title()
+- the_archive_title()
+- the_archive_description()
+- get_post_format()
+- esc_html_e()
+- is_home()
+- current_user_can()
+- printf()
+- get_the_permalink()
+- get_comments_number()
+- have_comments()
+- intval()
+- the_comments_navigation()
+- wp_list_comments() 
+- comments_open()
+- comment_form() 
+- wp_link_pages()
+- load_theme_textdomain()
+- add_theme_support()
+- add_action()
+- add_filter()
+- register_nav_menus()
+- apply_filters()
+- register_sidebar()
+- wp_enqueue_style()
+- wp_enqueue_script()
+- get_template_directory_uri()
+- wp_rand()
+- paginate_links()
+- dynamic_sidebar()
+
+
+
+
+
+
+
+
